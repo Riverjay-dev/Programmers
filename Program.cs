@@ -12,6 +12,7 @@ namespace Programmers
             Program p = new Program();
             p.solution_12917();
         }
+           
 
 
     }

@@ -8,7 +8,12 @@ namespace Programmers
 {
     public partial class Program
     {
-        public int solution_81301(string s)
+        public int solution_81301()
+        {
+            
+        }
+
+        private int solution(string s)
         {
             int answer = 0;
             return answer;
